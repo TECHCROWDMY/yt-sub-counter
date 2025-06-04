@@ -8,13 +8,15 @@ function App() {
 const channels = [
   { 
     name:'HowToThilakS',
-    channelId: "UCoZy7lNBH1r8KeBDlzfK9BQ",
-    apiKey: "AIzaSyB2aEdTAD5bXS15lbBYB7V7w1FFDVKrHtE"
+    channelId: "UCoZy7lNBH1r8KeBDlzfK9BQ"
   },
-    { 
+  { 
     name:'CodeWithThilakS',
-    channelId: "UC5zpkTY1dKRDoUj1YMZcTZQ",
-    apiKey: "AIzaSyB2aEdTAD5bXS15lbBYB7V7w1FFDVKrHtE"
+    channelId: "UC5zpkTY1dKRDoUj1YMZcTZQ"
+  },
+  { 
+    name:'Thilak S',
+    channelId: "UCwvi403GFp94CRq9PPHNALw"
   }
 ];
 
